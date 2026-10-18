@@ -18,8 +18,10 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,sequelize" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=aws,nodejs,ts,react,angular,express,nextjs,mongodb,postgres,sequelize" />
+  <img src="https://skillicons.dev/icons?i=ae,ps,pr,tailwind,bootstrap,redux,kafka,redis" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,py,docker,graphql,apollo,nginx,vite,webpack" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,wordpress,git,postman,figma,unity,unreal,ubuntu" />
 </p>
 
 <hr>
