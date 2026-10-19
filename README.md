@@ -7,7 +7,7 @@
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
 - 🌱 I’m currently creating **[Youtube Content](https://www.youtube.com/@MexicanoModernoMX)**
-- 💵 I'm developing a financial analyst system with AI agents called **[CacaoMetrics](https://cacaometrics.com/)**
+- 💵 I'm developing a financial analysis system with AI agents called **[CacaoMetrics](https://cacaometrics.com/)**
 - 💬 Ask me about **Node.js, React...or anything [via LinkedIn here](https://www.linkedin.com/in/luisdiazreynoso/)**
 
 <br>
